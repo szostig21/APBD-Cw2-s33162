@@ -97,3 +97,11 @@ obj/
 
 # Build logs
 *.log
+
+.idea/
+**/.idea/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
